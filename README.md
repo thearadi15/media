@@ -1,2 +1,2 @@
-# media
+# sub-domain takeover
 share.indrive.com
